@@ -23,10 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](images/ss.PNG)
 
-### Links
-
-- Solution URL: [https://github.com/rovicbalingbing/qrcode-frontendMentor.git](https://github.com/rovicbalingbing/qrcode-frontendMentor.git)
-- Live Site URL: [https://rovicbalingbing.github.io/qrcode-frontendMentor/](https://rovicbalingbing.github.io/qrcode-frontendMentor/)
 
 ## My process
 
